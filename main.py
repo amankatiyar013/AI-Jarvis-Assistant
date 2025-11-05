@@ -4,7 +4,7 @@ from backend.auth import recoganize
 from backend.auth.recoganize import AuthenticateFace
 from backend.feature import *
 from backend.command import *
-
+ 
 
 
 def start():
